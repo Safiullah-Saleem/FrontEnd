@@ -241,7 +241,3 @@ The `<button>` tag is used to submit the form or trigger actions.
   - Add a
 
 footer with `<footer>`.
-
-This hands-on practice will reinforce the concepts and help you better understand how to integrate both **semantic HTML** and **forms** in your projects.
-
-Let me know if you need any more details!

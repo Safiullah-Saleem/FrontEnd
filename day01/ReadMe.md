@@ -1,4 +1,3 @@
-Absolutely! Let’s dive deeper into **Semantic Tags** and **Forms** in HTML, with a focus on the **20/80 principle** — where you’ll get the **20% most important concepts** that will give you **80% of the value**. We will go into **theory**, **syntax**, and practical **real-world examples** to solidify your learning.
 
 ---
 
